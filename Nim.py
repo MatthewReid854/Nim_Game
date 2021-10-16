@@ -17,7 +17,6 @@ This game has been programed into Python 3 using Tkinter for the GUI.
 If you do not have Tkinter installed, in cmd type "python -m pip install tkinter"
 
 Written by Matthew Reid
-m.reid854@gmail.com
 14 Jan 2018
 
 '''
